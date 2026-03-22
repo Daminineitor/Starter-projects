@@ -1,2 +1,2 @@
-# Proyectos starter
-Aqui pondre mis trabajos de la universidad
+# My projects starting on computing world
+here i put my firts proyects
